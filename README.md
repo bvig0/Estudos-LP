@@ -4,6 +4,8 @@ Este repositório tem como objetivo **praticar e consolidar os fundamentos da l�
 
 A proposta é resolver os **mesmos tipos de problemas lógicos** em linguagens distintas, facilitando a comparação de abordagens e ajudando na transição entre tecnologias.
 
+**(Neste repositório poderá ter exercicios feitos das apostilas Faccat e Manzano)**
+
 ---
 
 ## 🎯 Objetivo
@@ -29,6 +31,7 @@ A proposta é resolver os **mesmos tipos de problemas lógicos** em linguagens d
 - Arrays (Vetores e Matrizes)
 - Funções
 - Classes
+- Conteúdos mais especificos de cada linguagem
   
 ---
 
