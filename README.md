@@ -1,38 +1,9 @@
-# 🧠 Lógica de Programação — Estudos
+# 🧠 Estudos de Lógica de Programação
 
-Este repositório tem como objetivo **praticar e consolidar os fundamentos da lógica de programação**, utilizando **diferentes linguagens** como meio de aprendizado.
-
-A proposta é resolver os **mesmos tipos de problemas lógicos** em linguagens distintas, facilitando a comparação de abordagens e ajudando na transição entre tecnologias.
+Repositório onde guardo meus estudos e exercícios sobre Lógica de Programação utilizando diferentes linguagens de programação.
 
 **(Neste repositório poderá ter exercicios feitos das apostilas Faccat e Manzano)**
 
----
-
-## 🎯 Objetivo
-
-- Desenvolver **raciocínio lógico**
-- Entender como algoritmos funcionam
-- Comparar soluções entre linguagens
-- Criar uma base sólida para programação em geral
-
----
-
-## 📚 Conteúdos Abordados
-
-- Variáveis e tipos de dados  
-- Operadores aritméticos e lógicos  
-- Estruturas condicionais  
-- Estruturas de repetição  
-
----
-
-## ⏭️ Próximos Conteúdos
-
-- Arrays (Vetores e Matrizes)
-- Funções
-- Classes
-- Conteúdos mais especificos de cada linguagem
-  
 ---
 
 ## 🖥️ Linguagens Usadas
