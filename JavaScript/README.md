@@ -65,17 +65,3 @@ Interação básica com o usuário.
 - `console.log()`
 
 ---
-
-## 📚 Conteúdos Abordados
-- Variáveis e tipos de dados
-- Operadores aritméticos, relacionais e lógicos
-- Entrada e saída de dados
-- Estrutura de decisão (if, else if, else e switch case)
-- Estrutura de repetição (while, for, do while)
-- Funções (Em andamento)
-- Arrays (Em andamento)
-- Objetos (Em andamento)
-- Manipulação de strings (Em andamento)
-- DOM (Em andamento)
-
----
