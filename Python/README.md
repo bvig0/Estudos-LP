@@ -65,17 +65,3 @@ Interação básica com o usuário.
 - `print()` (Saída de dados no terminal)
 
 ---
-
-## 📚 Conteúdos Abordados
-- Variáveis e tipos de dados
-- Operadores aritméticos, relacionais e lógicos
-- Entrada e saída de dados
-- Estrutura de decisão (if, elif e else)
-- Estrutura de repetição (while e for)
-- Funções (Em andamento)
-- Listas (Em andamento)
-- Tuplas (Em andamento)
-- Dicionários (Em andamento)
-- Manipulação de strings (Em andamento)
-
----
