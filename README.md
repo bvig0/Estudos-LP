@@ -1,13 +1,12 @@
-# 🧠 Estudos de Lógica de Programação
+# 🧠 Estudos de Programação
 
-Repositório onde guardo meus estudos e exercícios sobre Lógica de Programação utilizando diferentes linguagens de programação.
+Repositório utilizado para organizar e documentar meus estudos e exercícios em Programação, abrangendo linguagens de programação, frameworks e conceitos gerais da área.
 
 **(Neste repositório poderá ter exercicios feitos das apostilas Faccat e Manzano)**
 
 ---
 
-## 🖥️ Linguagens Usadas
-
+## 🖥️ Tecnologias Usadas
 
 - JavaScript
 - TypeScript
