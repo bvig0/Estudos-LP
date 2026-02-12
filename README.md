@@ -8,10 +8,11 @@ Repositório onde guardo meus estudos e exercícios sobre Lógica de Programaç�
 
 ## 🖥️ Linguagens Usadas
 
-- VisualG
+
 - JavaScript
+- TypeScript
 - Python
-- Java
+- VisualG
 
 ---
 
